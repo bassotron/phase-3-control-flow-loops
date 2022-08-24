@@ -1,6 +1,14 @@
-def happy_new_year
-  # your code here
+def happy_new_year(counter)
+ for counter in 10..1;
+ while counter >= 1
+puts counter
+for counter =< 1
+    puts "Happy New Year!"
+ end
 end
+end
+
+
 
 # No need to modify this code! Use this to implement the fizzbuzz_printer method.
 def fizzbuzz(num)
